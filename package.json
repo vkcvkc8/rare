@@ -1,7 +1,7 @@
 {
-  "name": "prospeo-email-finder",
+  "name": "dynamic-prospeo-email-finder",
   "version": "1.0.0",
-  "description": "Full-stack Prospeo Email Finder Tool",
+  "description": "Dynamic Prospeo Email Finder with Live API Verification",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
